@@ -1,0 +1,50 @@
+body {
+  background-color: white;
+}
+
+hr {
+  background-color: DimGray;
+  border-style: none;
+  height: 2px;
+  width: 50%;
+}
+
+img{
+  width: 600px;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+a {
+  display: inline-block;
+  color: DimGray;
+  padding: 5px 10px;
+  text-decoration:none;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center-table {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+h1 {
+    text-align:center;
+    color: DimGray
+}
+
+iframe {
+    margin: 0 auto;
+    display:block;
+}
